@@ -12,3 +12,6 @@ The author of the article, Russell, propose the following safety guidelines:
 - There needs to be international agreements so that safety is standardized across the globe
 
 Overall, I am incredibly interested in the progress of AI and how AI safety will evolve with it.
+
+### My Take (Jack Jiang)
+I think third-party AI system evaluators is an interesting idea for AI safety. I wonder how these third-parties will be well versed in the AIs used/being developed in these companies while being separated/unbiased in their decisions.
